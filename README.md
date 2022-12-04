@@ -4,7 +4,7 @@
 ### I built this project for the purpose of practicing layouts in css 😸👩‍💻
 
 
-### 📺 Responsive desing for 📺:
+### 📺 Responsive design for 📺:
 
 - Mobiles
 - Tablets(768px)
